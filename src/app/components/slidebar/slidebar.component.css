@@ -1,0 +1,5 @@
+.slider {
+  max-height: 35rem;
+  object-fit: cover;
+  overflow: hidden;
+}
